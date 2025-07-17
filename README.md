@@ -1,4 +1,5 @@
-# Документация проекта: Витрина данных
+# ETL-процесс для витрины данных на PostgreSQL
+<img width="486" height="486" alt="ETL_camunda_mart" src="https://github.com/user-attachments/assets/1425a9da-24e5-434c-801e-35c8e66dee95" />
 
 ## Назначение проекта
 
